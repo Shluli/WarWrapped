@@ -2,17 +2,20 @@
 
 **Spotify Wrapped, but for rocket sirens.** Drop your Google Timeline export onto a single HTML file and get a personal, swipeable recap of every siren that caught you — where you were, how long you spent in shelters, which nights it woke you, which sirens you dodged by being abroad — ending with a printable "Civilian Under Fire" ID card with your name on it.
 
-One file. No install. No server. **No internet.** Nothing you drop ever leaves your device.
+## The security issue
+To assure safety of data to the user, I took the extra step to make the entire webapp to work offline.
+One file. No server. **No internet.** Nothing you drop ever leaves your device.
 
 ## How to use
 
 1. On your phone for Android - Settings - Location - Location Services - Google Timeline - export date - Timeline.json
 2. Open `war-wrapped.html` in any modern browser (works from a USB stick on airplane mode).
-3. Drop the file in, pick your war — Lions Roar, the 12-Day War, Drones Night, or everything since Oct 7 — and tap to begin.
+3. Drop the file in, pick your starting day — Lions Roar start, the 12-Day War, The Drones Night, or everything since Oct 7 — and tap to begin.
 
 ## Credits
 
-**Made entirely by AI.** JS is a languge I dont feel comfortable enough in to code this project so I used the new anthropics Fables5 for most of it
+**What was made by the AI:** This is mostly a fun idea ive had for me and my friends to use, I used Anthropics Fables 5 for the implementation of the app.
+
 **Made by a human:**
 - The idea, and every feature call: Every single stat was thought and human written, along with its UX UI.
 - The taste — The UI was very important to me, reference photos and scrict guidance.
