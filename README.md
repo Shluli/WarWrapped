@@ -10,15 +10,6 @@ One file. No install. No server. **No internet.** Nothing you drop ever leaves y
 2. Open `war-wrapped.html` in any modern browser (works from a USB stick on airplane mode).
 3. Drop the file in, pick your war — Lions Roar, the 12-Day War, Drones Night, or everything since Oct 7 — and tap to begin.
 
-## What's inside the 2 MB
-
-- **The complete siren archive, embedded.** Every tzevaadom alert Oct 2023 → Mar 2026, plus the Mar–Jul 2026 gap reconstructed from official Pikud HaOref history (validated 65/65 minute-agreement on overlap data), gzipped into the file itself. That's why CORS, proxies, and Wi-Fi are all irrelevant.
-- **City polygons + coordinates** for 1,449 areas, so "were you inside the alert zone" is answered with real geometry, not guesses.
-- **Travel detection** that finds your trips abroad (and ignores the GPS jamming that teleports every Israeli phone to Beirut airport), then tells you *when these hit home, you were somewhere around 🇬🇷…*
-- **Leaflet, inlined**, for the siren map. **Heebo + Suez One**, subsetted and embedded, so Hebrew looks right offline.
-- **A canvas PNG exporter** that renders your stat card at full resolution for sharing.
-- Handles both classic `Records.json` and the modern on-device `Timeline.json` export — including a memory-light fast scanner so 67 MB files open fine on phones, and a JSON-recovery parser for truncated exports.
-
 ## Credits
 
 **Made entirely by AI.** JS is a languge I dont feel comfortable enough in to code this project so I used the new anthropics Fables5 for most of it
@@ -31,4 +22,4 @@ One file. No install. No server. **No internet.** Nothing you drop ever leaves y
 
 [tzevaadom.co.il](https://www.tzevaadom.co.il) historical archive · area polygons & metadata from the open-source `amitfin/oref_alert` project · Google Fonts (Heebo, Suez One — OFL) · Leaflet 1.9.4 ·
 
-*Stay safe. May this file never need an update.*
+*Please, May this file never need an update.* I dont wanna download Tzeva Adoms database again.
