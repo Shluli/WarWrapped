@@ -1,4 +1,4 @@
-# 🚨 War Wrapped - AI project
+# War Wrapped - AI project
 
 **Spotify Wrapped, but for rocket sirens.** Drop your Google Timeline export onto a single HTML file and get a personal, swipeable recap of every siren that caught you — where you were, how long you spent in shelters, which nights it woke you, which sirens you dodged by being abroad — ending with a printable "Civilian Under Fire" ID card with your name on it.
 
