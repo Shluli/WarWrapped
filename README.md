@@ -23,6 +23,6 @@ One file. No server. **No internet.** Nothing you drop ever leaves your device.
 
 ## Data sources
 
-[tzevaadom.co.il](https://www.tzevaadom.co.il) historical archive · area polygons & metadata from the open-source `amitfin/oref_alert` project · Google Fonts (Heebo, Suez One — OFL) · Leaflet 1.9.4 ·
+[tzevaadom.co.il](https://www.tzevaadom.co.il) historical archive · area polygons & metadata from the open-source `amitfin/oref_alert` project
 
 *Please, May this file never need an update.* I dont wanna download Tzeva Adoms database again.
